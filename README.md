@@ -25,3 +25,10 @@ I also tried out the validity button to ascertain that the chain was valid
 <br>
 
 ![Returning True with Validity test](Validity_of_blockchain.png)
+<br>
+<br>
+<br>
+<br>
+I have updated the new block function to record Sender, receiver and Amount 
+<br>
+![List of Blocks](Add_block_Fix.png)
